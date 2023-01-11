@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/quizz/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/quizz/build" />
+      <excludeFolder url="file://$MODULE_DIR$/quizz/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/diceroll/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/diceroll/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/diceroll/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ball8/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ball8/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ball8/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_learn_the_basics/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_learn_the_basics/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_learn_the_basics/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/buisnesscard/build" />
+      <excludeFolder url="file://$MODULE_DIR$/buisnesscard/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/buisnesscard/.dart_tool" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
